@@ -52,4 +52,4 @@ _.daniel._fo" target="_blank">
 </a>  
 </div>  
 
-![d](https://visitor-badge.laobi.icu/badge?page_id=Daniel264)
+
