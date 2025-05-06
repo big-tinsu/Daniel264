@@ -28,13 +28,13 @@
 ![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 ## I'm Daniel Olatinsu 🌚
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Daniel264&theme=react" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel264&langs_count=10&theme=react"/>
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=big-tinsu&theme=react" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=big-tinsu&langs_count=10&theme=react"/>
 
 
 ### Reach out to me 👓
 <div align="center">
-<a href="https://github.com/Daniel264" target="_blank">
+<a href="https://github.com/big-tinsu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/DanielOlatinsu" target="_blank">
